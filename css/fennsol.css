@@ -553,7 +553,7 @@
 }
 
 .rich_pic {
-  background-image: url('../images/fear_img.png');
+  background-image: url('https://donchi.wtf/images/fear_img.png');
   background-position: 50%;
   background-size: cover;
   border: 7px solid #000;
