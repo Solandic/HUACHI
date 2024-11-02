@@ -1857,3 +1857,9 @@ textarea.w-select {
   top: 0;
   left: 0;
 }
+@media screen and (max-width: 870px) {
+  .logo-title {
+    width: 100%;
+    transform: scale(0.7);
+  }
+}
